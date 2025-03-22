@@ -1,2 +1,2 @@
-# Fine_Tuning_Longerformer_and_Reformer
+# FineTuning Longerformer and Reformer
 Sample Code Snippet for Fine-Tuning the Longformer and Reformer Models
